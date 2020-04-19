@@ -1,4 +1,9 @@
 .formControl {
-    width: 45%;
+    width: 40%;
     margin-bottom: 30px !important;
   }
+  @media (max-width: 770px){
+    .card{
+        margin: 2% 0 !important;
+    }
+}
